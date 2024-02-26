@@ -14,17 +14,17 @@ However, there are no KiCad projects for these boards yet.
 ![C64KeyboardPCBScan](Commodor64/C64KeyboardPCBScan.jpg)
 
 ### Maxi-Switch 630107-02
-![bottonpcb2](Maxi-Switch 630107-02/bottonpcb2.jpg)
+![bottonpcb2](Maxi-Switch%20630107-02/bottonpcb2.jpg)
 
 ### Northstar Advantage
 
-![northstar keyboard pcb TopAlt](Northstar Advantage/northstar keyboard pcb TopAlt.jpg)
+![northstar keyboard pcb TopAlt](Northstar%20Advantage/northstar%20keyboard%20pcb%20TopAlt.jpg)
 
 Incomplete.
 
 ### Osborne 1
 
-![PCB Top](Osborne 1/PCB Top.jpg)
+![PCB Top](Osborne%201/PCB%20Top.jpg)
 
 Incomplete.
 
